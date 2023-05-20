@@ -27,11 +27,11 @@ public class A1 {
  
 
 		/* Method 3: */
-//		List<String> l=new ArrayList<String>();
-//		for (String string : colur) {
-//			l.add(string);
+		List<String> l=new ArrayList<String>();
+		for (String string : colur) {
+			l.add(string);
 //			
-//			System.out.println(l);
+			System.out.println(l);
 			
 //		}
 //		System.out.println(l);
