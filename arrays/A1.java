@@ -12,10 +12,12 @@ public class A1 {
 	public static void main(String[] args) {
 
 
-//		String [] colur= {"Red","Blue","White","Green"};
+	String [] colur= {"Red","Blue","White","Green"};
 		/* Method :1 */
-//		List list=Arrays.asList(colur);
-//		System.out.println(list);
+		List list=Arrays.asList(colur);
+		System.out.println(list);
+
+		// Asif Updated this file and update
  
  
 		/* Method 2:  */
