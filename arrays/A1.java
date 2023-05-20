@@ -35,8 +35,8 @@ public class A1 {
 //			
 			System.out.println(l);
 			
-//		}
-//		System.out.println(l);
+		}
+		System.out.println(l);
 		
 
 	
